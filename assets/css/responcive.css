@@ -1,0 +1,211 @@
+@media(min-width: 767px) and (max-width: 991px){
+    .banner_section{
+        background-size: cover;
+        height: 646px;
+    }
+    .banner_section h1{
+        font-size: 53px;
+        padding-top: 14px;
+        
+    }
+    .img_img img{
+        margin-top: 219px;
+    }
+    .banner_section p{
+        font-size: 19px;
+    }
+    .story_img{
+        height: 646px;
+    }
+    .story_img h2{
+        transform: translateY(306);
+    }
+    .place_img{
+        height: 646px;
+    }
+    .place_img h2{
+        transform: translateY(306);
+    }
+    .service{
+        height: 612px;
+    }
+    .service h2{
+        font-size: 43px;
+        padding-top: 251px;
+    }
+    .service p{
+        font-size: 14px;
+        padding-top: 12px;
+    }
+    .offer_part .one h3{
+        font-size: 33px;
+        padding-top: 163px;
+    }
+    .offer_part .one button{
+        margin-left: 39%;
+    }
+    .offer_part .two h3{
+        font-size: 33px;
+        padding-top: 163px;
+    }
+    .offer_part .two button{
+        margin-left: 39%;
+    }
+    .offer_part .three h3{
+        font-size: 33px;
+        padding-top: 163px;
+    }
+    .offer_part .three button{
+        margin-left: 39%;
+    }
+    .futter .one h4{
+        font-size: 26px;
+    }
+    .futter .one p{
+        font-size: 15px !important;
+        line-height: 21px !important;
+    }
+    .futter .two h4{
+        font-size: 26px;
+    }
+    .futter .two p{
+        font-size: 15px !important;
+        line-height: 21px !important;
+    }
+    .futter .three h4{
+        font-size: 26px;
+    }
+    .futter .three p{
+        font-size: 15px !important;
+        line-height: 21px !important;
+    }
+    .futter .therr button{
+        width: 158px !important;
+        height: 39px !important;
+        margin-left: -36px;
+    }
+    .futter{
+        height: 314px !important;
+    }
+    .h2 h2{
+        font-size: 40px !important;
+    }
+}
+/*767 to 300*/
+@media(min-width: 400px) and (max-width: 599px){
+    /* banner part*/
+    .banner_section{
+            background-size: cover;
+            height: 514px;
+    }
+    .banner_section h1{
+        font-size: 38px;
+        padding-top: 14px;
+        
+    }
+    .img_img img {
+        margin-top: 154px;
+    }
+    .banner_section img {
+        height: 35px;
+        width: 74px;
+    }
+    .banner_section p{
+        font-size: 15px;
+    }
+    /*banner part*/
+    /*story part*/
+    .story_img {
+        height: 457px;
+    }
+    .story_img h2{
+        font-size: 47px;
+        transform: translateY(195px) !important;
+    }
+    .place_img{
+        height: 457px;
+    }
+    .place_img h2{
+        font-size: 47px;
+        transform: translateY(195px) !important;
+    }
+    /*story part*/
+    /*slider part*/
+    #slider .study-lavel .sbtn {
+        margin-left: 156px !important;
+
+    }
+    /*slider part*/
+    .service{
+        height: 432px;
+    }
+    .service h2 {
+        font-size: 36px;
+        padding-top: 155px;
+    }
+    .service p {
+        font-size: 10px;
+        padding-top: 3px;
+    }
+    .offer_part .one h3{
+        font-size: 33px;
+        padding-top: 163px;
+    }
+    .offer_part .one button{
+        margin-left: 41%;
+    }
+    .offer_part .two h3{
+        font-size: 33px;
+        padding-top: 163px;
+    }
+    .offer_part .two button{
+        margin-left: 41%;
+    }
+    .offer_part .three h3{
+        font-size: 33px;
+        padding-top: 163px;
+    }
+    .offer_part .three button{
+        margin-left: 41%;
+    }/*futter part*/
+    .futter .one h4{
+        font-size: 21px !important;
+        line-height: 30px !important;
+       padding-top: 50px !important; 
+    }
+    .futter .one p{
+        font-size: 12px !important;
+        line-height: 17px !important;
+    }
+    .futter .two h4{
+        font-size: 21px !important;
+        line-height: 47px !important;
+        padding-top: 42px !important;
+    }
+    .futter .two p{
+        font-size: 12px !important;
+        line-height: 17px !important;
+        
+    }
+    .futter .therr h4{
+        font-size: 21px !important;
+        line-height: 30px !important;
+        padding-top: 50px !important;
+    }
+    .futter .therr p{
+        font-size: 12px !important;
+        line-height: 21px !important;
+    }
+    .futter .therr button{
+        width: 118px !important;
+        height: 35px !important;
+        margin-left: -25px;
+        transform: translateX(23%) !important;
+    }
+    .futter{
+        height: 267px !important;
+    }
+    .h2 h2{
+        font-size: 40px !important;
+    }
+}
